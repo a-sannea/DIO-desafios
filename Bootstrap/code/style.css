@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400;1,500&display=swap');
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    background-color: #ffe4c4;
+}
+
+.the-empress {
+    background-color: #D0D0C8;
+}
+
+.space {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.magic {
+    background-color: #DFB79A;
+}
+
+.sun {
+    background-color: #FCD1B0;
+}
+
+.chairot {
+    background-color: #C1BDA9;
+}
+
+.bg-footer {
+    background-color: #363636;
+    color: #D0D0C8;
+}
+
