@@ -14,7 +14,7 @@
 
 esta foi a versão dele feito no figma, eu confesso nao gostei muito dele, mas como era para ultilizar o que estava sendo passado na aula, nao quis fugir muito.
 
-![](D:\Downloads\Ver. 1 - Ugly Version.png)
+![](D:\DIO\Bootstrap\ultilidades\imagens credits\Ver. 1 - Ugly Version.png)
 
 sim sim, eu sei, mas a frente eu mostrarei ele muita mais bonito e como é realmente minha ideia com ele.
 
