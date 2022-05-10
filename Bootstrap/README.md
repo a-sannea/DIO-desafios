@@ -14,7 +14,9 @@
 
 esta foi a versão dele feito no figma, eu confesso nao gostei muito dele, mas como era para ultilizar o que estava sendo passado na aula, nao quis fugir muito.
 
-![](D:\DIO\Bootstrap\img\Ver. 1 - Ugly Version.svg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/52793451/167645442-0fef3f1b-6d8f-4ebe-bd45-1ee5f27fc7ce.png" width="600px" />
+  </div>
 
 sim sim, eu sei, mas a frente eu mostrarei ele muita mais bonito e como é realmente minha ideia com ele.
 
